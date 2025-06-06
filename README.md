@@ -1,8 +1,8 @@
 # password strength checker
-->firstly i take a weak password "Venom@09876" and check the strength of password
-RESULT:
-it gives a 100% strong password but many parameter show negative points like consecutive lowercase numbers and cosecutive letters this shows that this password is not strong for use.
+-> Firstly, I take a weak password "Venom@09876" and check the strength of the password </br>
+RESULT:</br>
+It generates a 100% strong password, but many parameters show negative points, such as consecutive </br> lowercase numbers and consecutive letters. This indicates that this password is not strong enough for use. </br>
 
-->In second step i take a strong random password "iRlZhXo<a^?0tM" 
-RESULT:
-It show all parameters positive and many exceptional thats mean it is a 100% strong password 
+->In the second step, I take a strong random password "iRlZhXo<a^?0tM" </br>
+RESULT:</br>
+It shows all parameters positive and many exceptional, which means it is a 100% strong password 
